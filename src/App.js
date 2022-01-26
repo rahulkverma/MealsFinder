@@ -15,7 +15,7 @@ firestore()
   .then(snap => {
     console.log('User exists: ', snap.exists);
     if (snap.exists) {
-      console.log('User data: ', snap.data());
+      console.log('User1 data: ', snap.data());
     }
   });
 
