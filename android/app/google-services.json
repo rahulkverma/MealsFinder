@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "819837152787",
+    "project_id": "mealrn-app",
+    "storage_bucket": "mealrn-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819837152787:android:6acb9d33609b1ba84899e6",
+        "android_client_info": {
+          "package_name": "com.mealsfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819837152787-8eqvigb2d5fd49f330cs5etjdfc0s44n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjB0FlGSIOAvOnUhZsYdgbElWxYmMKEuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819837152787-8eqvigb2d5fd49f330cs5etjdfc0s44n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "819837152787-sjo8i2bafv726qqgo46jaqlmheol3aej.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mealsfinder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
